@@ -7,7 +7,7 @@ The project is developed using MERN Stack and is designed to be user-friendly, i
 
 This project is still under development. Therefore, some features might still not be functional and bugs are expected. Feel free to browse the codes. Thank You!
 
-##Features
+## Features
 Resource Sharing: Users can create and share posts on various topics.
 
 Upvoting and Downvoting: Users can upvote or downvote notes shared by other users.
@@ -20,7 +20,7 @@ User Profile: Users have their own profiles where they can view their informatio
 
 Note: Some functions are still under development. More functions will be implemented over time.
 
-##Built With
+## Built With
 
 
 ![mongodb (1)](https://github.com/Ahmed-Anwar-2001/BRACU-Academic-Resources/assets/68177550/27de2ba6-f5b1-4f55-99cb-702908bd5afc)
