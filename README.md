@@ -1,7 +1,6 @@
 # BRACU-Academic-Resources
  
 
-Logo
 BRACU Academic Resources
 Welcome to the BRACU Academic Resources project! This is a web-based platform that provides users with the ability to share resources, as well as engage in conversations with fellow users. It also includes user account management functionalities, such as user registration, login, profile update, along with features like post creation, upvoting and downvoting mechanisms, discussion threads, and search functionality.
 
@@ -23,4 +22,4 @@ User Profile: Users have their own profiles where they can view their informatio
 Note: Some functions are still under development. More functions will be implemented over time.
 
 Built With
-My Skills
+https://camo.githubusercontent.com/df959ac76b3ee351791987e1f3590f36a9445042dbc2243227ebf7403ef9b347/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f64622c657870726573732c72656163742c6e6f64656a732c72656475782c6d6174657269616c7569267468656d653d6461726b
