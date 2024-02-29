@@ -22,8 +22,7 @@ User Profile: Users have their own profiles where they can view their informatio
 Note: Some functions are still under development. More functions will be implemented over time.
 
 Built With
-![mongodb](https://github.com/Ahmed-Anwar-2001/BRACU-Academic-Resources/assets/68177550/9e13b882-e233-476d-8e1c-6b7938baa39a)
-![expressjs](https://github.com/Ahmed-Anwar-2001/BRACU-Academic-Resources/assets/68177550/13e308d5-47e2-4469-a6fb-7e37acea4044)
-![react](https://github.com/Ahmed-Anwar-2001/BRACU-Academic-Resources/assets/68177550/65fd6095-327b-41de-aeb6-cdcbff3d8d2a)
-![nodejs](https://github.com/Ahmed-Anwar-2001/BRACU-Academic-Resources/assets/68177550/50f1ffe8-e7b0-415d-8de4-1464851fe827)
+![mongodb (1)](https://github.com/Ahmed-Anwar-2001/BRACU-Academic-Resources/assets/68177550/99f6be30-c895-47d5-85a9-0f70820308d9)
+![expressjs (1)](https://github.com/Ahmed-Anwar-2001/BRACU-Academic-Resources/assets/68177550/4f6cec26-4e92-47dd-8b41-db7949e176d1)
+![react (1)](https://github.com/Ahmed-Anwar-2001/BRACU-Academic-Resources/assets/68177550/daf9d0be-0988-434f-89d6-f1ce16484506)
 
